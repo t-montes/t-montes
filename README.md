@@ -3,6 +3,8 @@
 
 <img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-montes&layout=compact">
 
+<br>
+
 - 🍂 I'm deeply involved in the world of software development.
 - 🌱 I'm currently learning about Generative AI and LLMs
 - 🌎 I’m looking to collaborate on Open Source Projects
