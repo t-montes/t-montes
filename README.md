@@ -10,6 +10,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=t-montes">
 
 <br>
+<br>
 
 - 📫 You can reach me at my Linked<a href="https://www.linkedin.com/in/t-montes/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="14" width="18" /></a> profile
 - ⚡ Check out my github projects <a href="https://github.com/t-montes?tab=repositories"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="16" width="20"/></a>
