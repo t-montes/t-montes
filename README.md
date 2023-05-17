@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
 <p align="center"><!-- Centrar la imagen, GitHub no permite insertar CSS en Markdown -->
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-montes&layout=compact" alt="t-montes">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t-montes&layout=compact" alt="t-montes">
 </p>
 
 <!--
