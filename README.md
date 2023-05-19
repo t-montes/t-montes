@@ -1,7 +1,7 @@
 
 ## Hi 👋 I'm Tony Montes
 
-<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-montes&layout=compact&langs_count=6&hide=jupyter+notebook">
+<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-montes&layout=compact&langs_count=8&card_width=350" >
 <!-- Jupyter Notebook is not well renderized by github-readme-stats -->
 ⠀
 
