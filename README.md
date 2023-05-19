@@ -5,7 +5,8 @@
 <!-- Jupyter Notebook is not well renderized by github-readme-stats -->
 ⠀
 
-- 🍂 I'm deeply involved in the world of software development.
+- 🍂 I'm very engaged in the world of software development.
+- ♟️ I'm passionate about automating proceses.
 - 🌱 I'm currently learning about Generative AI and LLMs
 - 🌎 I’m looking to collaborate on Open Source Projects
 - ✨ I'm passionate about sharing the knowledge I have
