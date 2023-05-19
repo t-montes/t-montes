@@ -9,7 +9,7 @@
 - ♟️ I'm passionate about automating proceses.
 - 🌱 I'm currently learning about Generative AI and LLMs
 - 🌎 I’m looking to collaborate on Open Source Projects
-- ✨ I'm passionate about sharing the knowledge I have
+- ✨ I love sharing the knowledge I have
 
 <br>
 
