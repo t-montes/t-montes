@@ -2,7 +2,7 @@
 ## Hi 👋 I'm Tony Montes
 
 - 🍂 I'm very engaged in the world of software development.
-- ♟️ I'm passionate about automating proceses.
+- ♟️ I'm passionate about automating processes.
 - 🌱 I'm currently learning about Generative AI and LLMs
 - 🌎 I’m looking to collaborate on Open Source Projects
 - ✨ I love sharing the knowledge I have
