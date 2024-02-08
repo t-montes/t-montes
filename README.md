@@ -17,6 +17,7 @@
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=t-montes"></p>-->
 
 <img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-montes&layout=compact&langs_count=8&card_width=350" >
+<img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=t-montes&show_icons=true&theme=dark" >
 <!-- Jupyter Notebook is not well renderized by github-readme-stats -->⠀
 
 <br><br><br><br>
